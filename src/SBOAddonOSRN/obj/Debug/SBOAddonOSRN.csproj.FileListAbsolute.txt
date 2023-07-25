@@ -1,0 +1,8 @@
+C:\Users\Kamron\source\repos\SBOAddonOSRN\SBOAddonOSRN\bin\Debug\SBOAddonOSRN.exe
+C:\Users\Kamron\source\repos\SBOAddonOSRN\SBOAddonOSRN\bin\Debug\SBOAddonOSRN.pdb
+C:\Users\Kamron\source\repos\SBOAddonOSRN\SBOAddonOSRN\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\Kamron\source\repos\SBOAddonOSRN\SBOAddonOSRN\obj\Debug\SBOAddonOSRN.csproj.CoreCompileInputs.cache
+C:\Users\Kamron\source\repos\SBOAddonOSRN\SBOAddonOSRN\obj\Debug\SBOAddonOSRN.csproj.CopyComplete
+C:\Users\Kamron\source\repos\SBOAddonOSRN\SBOAddonOSRN\obj\Debug\SBOAddonOSRN.exe
+C:\Users\Kamron\source\repos\SBOAddonOSRN\SBOAddonOSRN\obj\Debug\SBOAddonOSRN.pdb
+C:\Users\Kamron\source\repos\SBOAddonOSRN\SBOAddonOSRN\obj\Debug\SBOAddonOSRN.csproj.AssemblyReference.cache
